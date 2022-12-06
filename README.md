@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BloodApp**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java**
 
