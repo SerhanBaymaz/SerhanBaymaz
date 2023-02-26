@@ -2,8 +2,6 @@
 
 - 🎓 I’m a **Computer Science & Engineering** student at **Akdeniz University**
 
-- 🔭 I’m currently working on **BloodApp**
-
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **sbaymaz12@gmail.com**
