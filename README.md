@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Serhan</h1>
-<h3 align="center">A passionate developer</h3>
+
+- 🎓 I’m a **Computer Science & Engineering** student at **Akdeniz University**
 
 - 🔭 I’m currently working on **BloodApp**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **sbaymaz12@gmail.com**
 
