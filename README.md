@@ -2,7 +2,7 @@
 
 - 🎓 I’m a **Computer Science & Engineering** student at **Akdeniz University**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **sbaymaz12@gmail.com**
 
